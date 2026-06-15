@@ -39,4 +39,3 @@ alert(
 }
 
 });
-//https://script.google.com/macros/s/AKfycbxuVev9vpx6Q30NKxUVoFiEHHEUcz4hGHV56fE_Urn1ckbfLQ07EY2eBgKZoVOCYdd7YQ/exec//
